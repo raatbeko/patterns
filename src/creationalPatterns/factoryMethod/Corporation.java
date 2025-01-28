@@ -1,6 +1,6 @@
 package creationalPatterns.factoryMethod;
 
-import creationalPatterns.abstractMethod.ElectricVehicle;
+import creationalPatterns.abstractFactory.ElectricVehicle;
 
 public abstract class Corporation {
     public abstract MotorVehicle createMotorVehicle();

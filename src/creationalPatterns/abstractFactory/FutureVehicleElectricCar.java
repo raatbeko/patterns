@@ -1,4 +1,4 @@
-package creationalPatterns.abstractMethod;
+package creationalPatterns.abstractFactory;
 
 public class FutureVehicleElectricCar implements ElectricVehicle {
     @Override
